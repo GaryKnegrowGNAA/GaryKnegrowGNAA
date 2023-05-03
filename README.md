@@ -1,5 +1,4 @@
 <img src="https://gnaa.world/assets/gnaa%20trademark.png" height=50>
-<img src="https://avatars.githubusercontent.com/u/117902308?v=4" height=90>
 <b> Gary Knegrow </b>
 
 president () gnaa
